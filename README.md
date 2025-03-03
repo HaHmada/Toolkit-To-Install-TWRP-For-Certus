@@ -2,7 +2,7 @@
 
 # Toolkit FlashTWRP For Redmi 6/6A
 
-![Version 1.0](https://github.com/HaHmada/assets-repository/blob/main/TWRP/TWRP.png)
+![Logo](https://github.com/HaHmada/assets-repository/blob/main/TWRP/TWRP.png)
 </div>
 
 # Uses Of This Tool
