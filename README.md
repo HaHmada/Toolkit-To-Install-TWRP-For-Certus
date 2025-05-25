@@ -13,6 +13,18 @@
 
 > **Note**: For Now Only Support Windows 
 
+# How To Use
+
+1. Download The File In [Git For Windows (32-bit)](https://github.com/HaHmada/Toolkit-To-Install-TWRP-For-Certus/releases/ "Download Link")
+
+2. Extract The File (With Winrar Or Other Extractor)
+
+3. After Extract The File, Open "Toolkit FlashTWRP.bat"
+
+4. Follow The Instructions
+
+5. Congratulations, You Can Now Use TWRP On Your Redmi 6/6A
+
 # You Can Make This Toolkit Yourself (Only For Windows 7 or New Version)
 
 <details>
