@@ -15,7 +15,7 @@
 
 # How To Use
 
-1. Download The File In [Git For Windows (32-bit)](https://github.com/HaHmada/Toolkit-To-Install-TWRP-For-Certus/releases/ "Download Link")
+1. Download The File In [Here](https://github.com/HaHmada/Toolkit-To-Install-TWRP-For-Certus/releases/ "Download Link")
 
 2. Extract The File (With Winrar Or Other Extractor)
 
